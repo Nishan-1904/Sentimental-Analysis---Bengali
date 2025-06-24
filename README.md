@@ -95,6 +95,6 @@ matplotlib
 ## ✍️ Author
 
 * **Nishan Chakraborty**
-  [LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/yourusername)
+  [LinkedIn](www.linkedin.com/in/nishan-chakraborty) • [GitHub](https://github.com/Nishan-1904)
 
 
